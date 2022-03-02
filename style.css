@@ -1,7 +1,7 @@
 body{
     padding: 0;
     margin: 0;
-    font-family: 'Coiny', cursive;
+    font-family: 'Smooch Sans', sans-serif;
     box-sizing: box-shadow;
   }
   
@@ -13,8 +13,9 @@ body{
   .header{
     height: 100vh;
     width: 100%;
-    background: #cccccc;
+    background: #2f3045;
     position: relative;
+    color: whitesmoke;
   }
   
   .intro {
@@ -32,11 +33,11 @@ body{
   
   .intro a{
 
-    background: #e74c3c;
+    background: #03e1e4;
     display: block;
     padding: 10px;
     text-decoration: none;
-    color: #fff;
+    color: #2f3045;
     transition: all 0.5s ease-in-out;
   }
 
@@ -82,11 +83,11 @@ body{
   
   .body-content a{
     width: 100%;
-    background: #e74c3c;
+    background: #03e1e4;
     display: block;
     padding: 10px;
     text-decoration: none;
-    color: #fff;
+    color: #2f3045;
     transition: all 0.5s ease-in-out;
   }
   
